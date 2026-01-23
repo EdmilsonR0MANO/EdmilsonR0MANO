@@ -54,7 +54,7 @@ Desenvolvedor Back-End Pleno com mais de 2 anos de experiência, especializado e
 - **Arquiba:** Chat em tempo real, sistema de publicações, notificações e interações sociais
 - **Gerar Gráfica:** Gestão de estoque, pedidos personalizados, dashboards financeiros
 
-### Desenvolvedor Back-End Freelancer
+### Desenvolvedor Full-Stack Freelancer
 **Abril/2025 - Atual**
 
 - Desenvolvimento e manutenção de APIs, microsserviços e integrações back-end
