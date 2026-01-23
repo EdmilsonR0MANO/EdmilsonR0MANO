@@ -59,6 +59,8 @@ Desenvolvedor Back-End Pleno com mais de 2 anos de experiência, especializado e
 
 - Desenvolvimento e manutenção de APIs, microsserviços e integrações back-end
 - Otimização de queries, melhoria de performance, segurança e escalabilidade
+- Desenvolvimento de aplicações web com React, Next.js e TypeScript.
+- Interfaces responsivas, integração com APIs e otimização de performance.
 - Apoio em arquitetura, deploy, CI/CD e práticas DevOps
 
 ---
