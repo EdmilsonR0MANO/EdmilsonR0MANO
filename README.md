@@ -1,109 +1,41 @@
-# 👋 Olá, eu sou Edmilson Romano!
+# Edmilson Romano
 
-**Desenvolvedor Back-End | Node.js | TypeScript | NestJS**
+**Desenvolvedor Back-end · Full Stack** | Node.js · TypeScript · NestJS
+São Paulo, Brasil · aberto a vagas remotas
 
-📍 São Paulo, SP, Brasil
+[LinkedIn](https://www.linkedin.com/in/edmilson-romano-8bb357263/) · edmilsonromano14@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/edmilson-romano-8bb357263)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:edmilsonromano14@gmail.com)
+Desenvolvo APIs e microsserviços em Node.js e TypeScript há mais de 3 anos, em produtos de logística internacional, e-commerce e pagamentos.
 
----
+## O que eu faço bem
 
-## 🚀 Sobre Mim
+- **Microsserviços e mensageria:** RabbitMQ com retry, backoff exponencial e dead letter queue.
+- **Integrações seguras:** webhooks assinados com HMAC-SHA256 para ERP (Sankhya).
+- **Dados:** aggregation pipelines em MongoDB; modelagem e otimização de PostgreSQL.
+- **APIs com NestJS:** autenticação e autorização, validação, testes e documentação com Swagger.
 
-Desenvolvedor Back-End Pleno com mais de 2 anos de experiência, especializado em desenvolvimento e otimização de APIs RESTful utilizando Node.js e TypeScript. Experiência sólida em construção de microsserviços, autenticação segura, integrações complexas e desenvolvimento de sistemas escaláveis.
+## Stack
 
----
+| Área | Tecnologias |
+|---|---|
+| Back-end | Node.js, TypeScript, NestJS, Express, PHP |
+| Dados | PostgreSQL, MongoDB, MySQL |
+| Mensageria | RabbitMQ |
+| Front-end | AngularJS, React, Next.js |
+| Ferramentas | Git, Docker, Jest, Swagger, Postman |
 
-## 💻 Tecnologias e Ferramentas
+## Experiência
 
-### Back-End
-`Node.js` `TypeScript` `NestJS` `Express.js` `AdonisJS` `API RESTful`
+| Período | Onde | Função |
+|---|---|---|
+| fev/2026 – set/2026 | Egadnet · logística internacional | Desenvolvedor Full Stack |
+| abr/2025 – jan/2026 | Gateway de pagamentos · freelance | Desenvolvedor Back-end |
+| ago/2022 – abr/2025 | Clicksoft · software house | Desenvolvedor Back-end |
 
-### Banco de Dados
-`MySQL` `PostgreSQL` `MongoDB` `SQLite` `Redis`
+## Projeto em destaque
 
-### DevOps & Cloud
-`Docker` `AWS` `Azure` `Google Cloud` `CI/CD`
+**[currency-converter-api](https://github.com/EdmilsonR0MANO/technical-test-currency-converter-egadnet)**: API de conversão de moedas em NestJS, com autenticação por API key, cache com TTL, tratamento de falhas da API externa, Swagger e testes unitários e e2e.
 
-### Arquitetura & Segurança
-`Microsserviços` `Serverless` `BFF` `OAuth 2.0` `JWT` `API Gateway`
+## Formação
 
-### Qualidade e Desenvolvimento
-`Code Review` `Jest` `Swagger` `Postman` `Git` `GitHub Flow`
-
-### Metodologias Ágeis
-`Scrum` `Kanban` `SAFe` `Lean` `Continuous Delivery`
-
-
-## 💼 Experiência Profissional
-
-### Desenvolvedor Back-End Pleno
-**Clicksoft** | Agosto/2023 - Abril/2025
-
-- Desenvolvimento e manutenção de APIs RESTful escaláveis utilizando Node.js e TypeScript
-- Criação de sistemas de autenticação robustos, incluindo login social (Google, Facebook)
-- Implementação de dashboards administrativos, relatórios e sistemas de gestão
-- Integração com Google Maps, sistemas de notificações push e funcionalidades baseadas em localização
-- Code reviews, testes automatizados e documentação técnica completa
-- Suporte e mentoria para desenvolvedores iniciantes
-
-**Projetos desenvolvidos:**
-- **Murban:** API para gerenciamento de corridas, geolocalização e controle de motoristas
-- **Gula Gula:** Sistema de pontos, leitura de QR Code, dashboards administrativos
-- **Arquiba:** Chat em tempo real, sistema de publicações, notificações e interações sociais
-- **Gerar Gráfica:** Gestão de estoque, pedidos personalizados, dashboards financeiros
-
-### Desenvolvedor Full-Stack Freelancer
-**Abril/2025 - Atual**
-
-- Desenvolvimento e manutenção de APIs, microsserviços e integrações back-end
-- Otimização de queries, melhoria de performance, segurança e escalabilidade
-- Desenvolvimento de aplicações web com React, Next.js e TypeScript.
-- Interfaces responsivas, integração com APIs e otimização de performance.
-- Apoio em arquitetura, deploy, CI/CD e práticas DevOps
-
----
-
-## 📚 Formação Acadêmica
-
-- 🎓 **Bacharelado em Ciência da Computação** - Universidade São Judas Tadeu (2023 - 2027)
-- 🎓 **Formação em Desenvolvimento Back-End** - Cubos Academy (Julho/2023 - Dezembro/2023)
-
----
-
-## 🎯 Competências Adicionais
-
-- Excelência em resolução de problemas e análise crítica
-- Comunicação clara e colaboração com equipes multidisciplinares
-- Foco em eficiência, segurança, qualidade e escalabilidade
-- Comprometimento com prazos, entregas e melhoria contínua
-
----
-
-## 📈 Contribuições
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=EdmilsonROMANO&theme=github-dark&hide_border=true)
-
----
-
-## 📬 Contato
-
-- **Email:** edmilsonromano14@gmail.com
-- **Telefone:** (11) 97839-9528
-- **LinkedIn:** [linkedin.com/in/edmilson-romano-8bb357263](https://linkedin.com/in/edmilson-romano-8bb357263)
-
----
-
-## 🌐 Idiomas
-
-- **Português:** Nativo
-- **Inglês:** Técnico
-
----
-
-<div align="center">
-
-**Disponível para início imediato. Abertura para trabalho remoto ou presencial.**
-
-</div>
+Ciência da Computação, Universidade São Judas Tadeu (2023–2027) · Desenvolvimento Back-end, Cubos Academy (2023)
