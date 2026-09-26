@@ -34,7 +34,7 @@ Desenvolvo APIs e microsserviços em Node.js e TypeScript há mais de 3 anos, em
 
 ## Projeto em destaque
 
-**[currency-converter-api](https://github.com/EdmilsonR0MANO/currency-converter-api)**: API de conversão de moedas em NestJS, com autenticação por API key, cache com TTL, tratamento de falhas da API externa, Swagger e testes unitários e e2e.
+**[currency-converter-api](https://github.com/EdmilsonR0MANO/currency-converter-api)**: API de conversão de moedas em NestJS, com autenticação por API key, cache com TTL, tratamento de falhas da API externa, Swagger e testes unitários e e2e. Tem um assistente em linguagem natural: o Claude interpreta "quanto dá 250 dólares em reais?" e chama a conversão da API por function calling.
 
 ## Formação
 
