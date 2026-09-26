@@ -29,7 +29,7 @@ Desenvolvo APIs e microsserviços em Node.js e TypeScript há mais de 3 anos, em
 | Período | Onde | Função |
 |---|---|---|
 | fev/2026 – set/2026 | Egadnet · logística internacional | Desenvolvedor Full Stack |
-| abr/2025 – jan/2026 | Gateway de pagamentos · freelance | Desenvolvedor Back-end |
+| abr/2025 – jan/2026 | OrizonPay · gateway de pagamentos (freelance) | Desenvolvedor Back-end |
 | ago/2022 – abr/2025 | Clicksoft · software house | Desenvolvedor Back-end |
 
 ## Projeto em destaque
